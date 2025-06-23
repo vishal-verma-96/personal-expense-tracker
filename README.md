@@ -59,7 +59,7 @@ Stay in control of your monthly budget and spending habits — all from your ter
 
 **Vishal Verma**<br/>
 🔎 Passionate about Data Visualization, Data Science, and Artificial Intelligence<br/>
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalds/)
 
 ---
 
