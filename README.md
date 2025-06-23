@@ -48,10 +48,10 @@ Stay in control of your monthly budget and spending habits with just a terminal!
 ## 📂 File Structure
 📁 Personal-Expense-Tracker/
 │
-├── Expense_tracker.ipynb # Main application 
-├── expenses.csv # Saved data file (generated after use)
-├── README.md # You're here!
-└── screenshot # Final output screenshot
+|-- Expense_tracker.ipynb # Main application 
+|-- expenses.csv # Saved data file (generated after use)
+|-- screenshot.png # Final output screenshot
+|-- README.md # You're here!
 
 ---
 
