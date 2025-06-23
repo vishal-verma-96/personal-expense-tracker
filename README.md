@@ -49,10 +49,10 @@ Stay in control of your monthly budget and spending habits — all from your ter
 
 📁 Personal-Expense-Tracker
 │
-├── Expense_tracker.ipynb    # Main application 
-├── expenses.csv             # Saved data file (generated after use)
-├── screenshot.png           # Final output screenshot
-└── README.md                # You're here!
+├── Expense_tracker.ipynb     
+├── expenses.csv             
+├── screenshot.png          
+└── README.md                
 
 ---
 
