@@ -9,7 +9,7 @@ Stay in control of your monthly budget and spending habits — all from your ter
 
 - 📅 Log daily expenses with date
 - 📂 Categorize spending (Fooding, Shopping, etc.)
-- 📝 Add item description and amount
+- 📝 Add item Name and its amount
 - 💳 Monthly budget tracking
 - 📊 Summary of expenses by category
 - 📄 View all expense history in a tabular format
@@ -30,7 +30,7 @@ Stay in control of your monthly budget and spending habits — all from your ter
 
 > 💡 No special setup or Git knowledge needed!
 
-1. Download the `Expense_tracker.ipynb` or `.py` file from this repository  
+1. Download the `Expense_tracker.ipynb` file from this repository  
 2. Open it using any Python IDE (like Jupyter Notebook, VS Code, PyCharm)
 3. Run the code cell by cell and follow on-screen prompts
 4. Set your budget, start adding expenses, and track like a pro!
