@@ -46,6 +46,7 @@ Stay in control of your monthly budget and spending habits — all from your ter
 ---
 
 ## 📂 File Structure
+
 📁 Personal-Expense-Tracker
 │
 ├── Expense_tracker.ipynb    # Main application 
