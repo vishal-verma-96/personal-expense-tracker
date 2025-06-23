@@ -51,13 +51,14 @@ Stay in control of your monthly budget and spending habits — all from your ter
 ├── Expense_tracker.ipynb     
 ├── expenses.csv             
 ├── screenshot.png          
-└── README.md   # You are here!             
+└── README.md&ensp;&ensp;# You are here!             
 
 ---
 
 ## 🙌 Author
-**Vishal Verma**
-🔎 Passionate about Data Visualization, Data Science, and Artificial Intelligence
+
+**Vishal Verma**<br/>
+🔎 Passionate about Data Visualization, Data Science, and Artificial Intelligence<br/>
 📫 Connect with me on LinkedIn
 
 ---
