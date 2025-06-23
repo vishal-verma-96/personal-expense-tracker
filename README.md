@@ -42,3 +42,29 @@ Stay in control of your monthly budget and spending habits with just a terminal!
 ## 📸 Screenshots
 
 <img src = "https://github.com/vishal-verma-96/personal-expense-tracker/blob/main/Screenshot.png">
+
+---
+
+## 📂 File Structure
+📁 Personal-Expense-Tracker/
+│
+├── Expense_tracker.ipynb # Main application 
+├── expenses.csv # Saved data file (generated after use)
+├── README.md # You're here!
+└── screenshot # Final output screenshot
+
+---
+
+## 🙌 Author
+
+**Vishal Verma**  
+🔎 Passionate about Data Visualization, Data Science, and Artificial Intelligence
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalds/)
+
+---
+
+## ⭐ Final Note
+
+> This is a great beginner-level Python project to improve file handling, data manipulation, and user interaction skills — all while solving a real-world problem.
+
+Feel free to ⭐ star this repo if you found it helpful. Contributions and feedback are welcome! 😊
