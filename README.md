@@ -65,6 +65,6 @@ Stay in control of your monthly budget and spending habits — all from your ter
 
 ## ⭐ Final Note
 
-> This is a great beginner-level Python project to improve file handling, data manipulation, and user interaction skills — all while solving a real-world problem.
+> A fun and practical Python project that helps you master basic programming concepts while creating a tool you can actually use to manage your finances.
 
 Feel free to ⭐ star this repo if you found it helpful. Contributions and feedback are welcome! 😊
