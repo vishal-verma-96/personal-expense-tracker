@@ -48,9 +48,9 @@ Stay in control of your monthly budget and spending habits — all from your ter
 ## 📂 File Structure
 
 📁 Personal-Expense-Tracker<br/>
-├── Expense_tracker.ipynb     
-├── expenses.csv             
-├── screenshot.png          
+├── Expense_tracker.ipynb &ensp;&ensp; # Main application 
+├── expenses.csv &ensp;&ensp; # Saved data file (generated after use)        
+├── screenshot.png &ensp;&ensp; # Final output screenshot       
 └── README.md &ensp;&ensp; # You are here!             
 
 ---
