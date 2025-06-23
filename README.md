@@ -1,7 +1,7 @@
 # 💰 Personal Expense Tracker 🧾
 
 A **simple and user-friendly** Python application to help you **log, categorize, and track** your daily expenses.  
-Stay in control of your monthly budget and spending habits with just a terminal!
+Stay in control of your monthly budget and spending habits — all from your terminal!
 
 ---
 
@@ -48,10 +48,10 @@ Stay in control of your monthly budget and spending habits with just a terminal!
 ## 📂 File Structure
 📁 Personal-Expense-Tracker/
 │
-|-- Expense_tracker.ipynb # Main application 
-|-- expenses.csv # Saved data file (generated after use)
-|-- screenshot.png # Final output screenshot
-|-- README.md # You're here!
+├── Expense_tracker.ipynb # Main application 
+├── expenses.csv # Saved data file (generated after use)
+├── screenshot.png # Final output screenshot
+└── README.md # You're here!
 
 ---
 
@@ -59,6 +59,7 @@ Stay in control of your monthly budget and spending habits with just a terminal!
 
 **Vishal Verma**  
 🔎 Passionate about Data Visualization, Data Science, and Artificial Intelligence
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalds/)
 
 ---
