@@ -10,7 +10,7 @@ Stay in control of your monthly budget and spending habits — all from your ter
 - 📅 Log daily expenses with date
 - 📂 Categorize spending (Fooding, Shopping, etc.)
 - 📝 Add item Name and its amount
-- 💳 Monthly budget tracking
+- 💳 Monthly budget tracking with update option
 - 📊 Summary of expenses by category
 - 📄 View all expense history in a tabular format
 - 💾 Save & load data via CSV file
@@ -67,4 +67,5 @@ Stay in control of your monthly budget and spending habits — all from your ter
 
 > A fun and practical Python project that helps you master basic programming concepts while creating a tool you can actually use to manage your finances.
 
-Feel free to ⭐ star this repo if you found it helpful. Contributions and feedback are welcome! 😊
+If you found this helpful, feel free to ⭐ star the repo.  
+**Feedback and contributions are always welcome!** 😊
